@@ -1,5 +1,5 @@
 ### Date created
-Octber 22 2019
+Octber-22-2019
 
 ### Project Title
 Project 3 - Git and version control 
@@ -12,6 +12,7 @@ bikeshare.py
 chicago.csv
 washington.csv
 new_york_city.csv
+README.md
 
 ### Credits
 Udacity
