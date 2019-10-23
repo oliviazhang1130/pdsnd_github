@@ -1,15 +1,18 @@
 ### Date created
-Include the date you created this project and README file.
+Octber 22 2019
 
 ### Project Title
-Replace the Project Title
+Project 3 - Git and version control 
 
 ### Description
-Describe what your project is about and what it does
+This project is about simulating a realistic workflow to refactor your previous BikeShare project using Git.
 
 ### Files used
-Include the files used
+bikeshare.py
+chicago.csv
+washington.csv
+new_york_city.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Udacity
 
